@@ -1,3 +1,13 @@
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/plover-modules/plover-logger/compare/v1.4.0...v1.4.1) (2016-06-13)
+
+
+### Bug Fixes
+
+* show the same message twice, if set DEBUG env variable ([c7bf449](https://github.com/plover-modules/plover-logger/commit/c7bf449))
+
+
+
 <a name="1.4.0"></a>
 # [1.4.0](https://github.com/plover-modules/plover-logger/compare/v1.3.1...v1.4.0) (2016-05-09)
 
